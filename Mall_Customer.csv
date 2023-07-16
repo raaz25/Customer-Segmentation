@@ -1,0 +1,201 @@
+CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100),Address,Latitude,Longitude
+1,Male,19,15,39,Model colony ,18.5325,73.8375
+2,Male,21,15,81,Koregaon Park,18.5362,73.894
+3,Female,20,16,6,Kothrud,18.5074,73.8077
+4,Female,23,16,77,Viman Nagar,18.5679,73.9143
+5,Female,31,17,40,Anand Nagar,18.474,73.822
+6,Female,22,17,76,Shivajinagar,18.5314,73.8446
+7,Female,35,18,6,Karve Nagar,18.4915,73.8217
+8,Female,23,18,94,Hadapsar,18.5089,73.9259
+9,Male,64,19,3,Narhe,18.4465,73.8264
+10,Female,30,19,72,Baner,18.559,73.7868
+11,Male,67,19,14,Hinjawadi,18.5913,73.7389
+12,Female,35,19,99,Pashan,18.5415,73.7925
+13,Female,58,20,15,Chinchwad,18.6387,73.7952
+14,Female,24,20,77,Bhosari,18.6321,73.8468
+15,Male,37,20,13,Vidyanagar,18.5799,73.8941
+16,Male,22,20,79,Wadki,18.4314,73.9798
+17,Female,35,21,35,Uday Baug,18.5118,73.9059
+18,Male,20,21,66,Undri,18.4567,73.9095
+19,Male,52,23,29,Kondhwa,18.4695,73.889
+20,Female,35,23,98,Wagholi,18.5808,73.9787
+21,Male,35,24,35,Viman Nagar,18.5679,73.9143
+22,Male,25,24,73,Narhe,18.4465,73.8264
+23,Female,46,25,5,Wagholi,18.5808,73.9787
+24,Male,31,25,73,Narhe,18.4465,73.8264
+25,Female,54,28,14,Koregaon Park,18.5362,73.894
+26,Male,29,28,82,Uday Baug,18.5118,73.9059
+27,Female,45,28,32,Kothrud,18.5074,73.8077
+28,Male,35,28,61,Koregaon Park,18.5362,73.894
+29,Female,40,29,31,Hadapsar,18.5089,73.9259
+30,Female,23,29,87,Shivajinagar,18.5314,73.8446
+31,Male,60,30,4,Model colony ,18.5325,73.8375
+32,Female,21,30,73,Pashan,18.5415,73.7925
+33,Male,53,33,4,Chinchwad,18.6387,73.7952
+34,Male,18,33,92,Kothrud,18.5074,73.8077
+35,Female,49,33,14,Hadapsar,18.5089,73.9259
+36,Female,21,33,81,Shivajinagar,18.5314,73.8446
+37,Female,42,34,17,Narhe,18.4465,73.8264
+38,Female,30,34,73,Model colony ,18.5325,73.8375
+39,Female,36,37,26,Bhosari,18.6321,73.8468
+40,Female,20,37,75,Karve Nagar,18.4915,73.8217
+41,Female,65,38,35,Kothrud,18.5074,73.8077
+42,Male,24,38,92,Wadki,18.4314,73.9798
+43,Male,48,39,36,Shivajinagar,18.5314,73.8446
+44,Female,31,39,61,Hadapsar,18.5089,73.9259
+45,Female,49,39,28,Model colony ,18.5325,73.8375
+46,Female,24,39,65,Karve Nagar,18.4915,73.8217
+47,Female,50,40,55,Uday Baug,18.5118,73.9059
+48,Female,27,40,47,Viman Nagar,18.5679,73.9143
+49,Female,29,40,42,Pashan,18.5415,73.7925
+50,Female,31,40,42,Koregaon Park,18.5362,73.894
+51,Female,49,42,52,Chinchwad,18.6387,73.7952
+52,Male,33,42,60,Shivajinagar,18.5314,73.8446
+53,Female,31,43,54,Bhosari,18.6321,73.8468
+54,Male,59,43,60,Kothrud,18.5074,73.8077
+55,Female,50,43,45,Pashan,18.5415,73.7925
+56,Male,47,43,41,Narhe,18.4465,73.8264
+57,Female,51,44,50,Wadki,18.4314,73.9798
+58,Male,69,44,46,Model colony ,18.5325,73.8375
+59,Female,27,46,51,Narhe,18.4465,73.8264
+60,Male,53,46,46,Vidyanagar,18.5799,73.8941
+61,Male,70,46,56,Chinchwad,18.6387,73.7952
+62,Male,19,46,55,Koregaon Park,18.5362,73.894
+63,Female,67,47,52,Pashan,18.5415,73.7925
+64,Female,54,47,59,Kothrud,18.5074,73.8077
+65,Male,63,48,51,Wadki,18.4314,73.9798
+66,Male,18,48,59,Shivajinagar,18.5314,73.8446
+67,Female,43,48,50,Uday Baug,18.5118,73.9059
+68,Female,68,48,48,Koregaon Park,18.5362,73.894
+69,Male,19,48,59,Viman Nagar,18.5679,73.9143
+70,Female,32,48,47,Undri,18.4567,73.9095
+71,Male,70,49,55,Vidyanagar,18.5799,73.8941
+72,Female,47,49,42,Model colony ,18.5325,73.8375
+73,Female,60,50,49,Hadapsar,18.5089,73.9259
+74,Female,60,50,56,Pashan,18.5415,73.7925
+75,Male,59,54,47,Chinchwad,18.6387,73.7952
+76,Male,26,54,54,Koregaon Park,18.5362,73.894
+77,Female,45,54,53,Wadki,18.4314,73.9798
+78,Male,40,54,48,Pashan,18.5415,73.7925
+79,Female,23,54,52,Viman Nagar,18.5679,73.9143
+80,Female,49,54,42,Wagholi,18.5808,73.9787
+81,Male,57,54,51,Kothrud,18.5074,73.8077
+82,Male,38,54,55,Uday Baug,18.5118,73.9059
+83,Male,67,54,41,Shivajinagar,18.5314,73.8446
+84,Female,46,54,44,Vidyanagar,18.5799,73.8941
+85,Female,21,54,57,Model colony ,18.5325,73.8375
+86,Male,48,54,46,Undri,18.4567,73.9095
+87,Female,55,57,58,Hadapsar,18.5089,73.9259
+88,Female,22,57,55,Viman Nagar,18.5679,73.9143
+89,Female,34,58,60,Wadki,18.4314,73.9798
+90,Female,50,58,46,Uday Baug,18.5118,73.9059
+91,Female,68,59,55,Viman Nagar,18.5679,73.9143
+92,Male,18,59,41,Chinchwad,18.6387,73.7952
+93,Male,48,60,49,Koregaon Park,18.5362,73.894
+94,Female,40,60,40,Hinjawadi,18.5913,73.7389
+95,Female,32,60,42,Hadapsar,18.5089,73.9259
+96,Male,24,60,52,Vidyanagar,18.5799,73.8941
+97,Female,47,60,47,Viman Nagar,18.5679,73.9143
+98,Female,27,60,50,Kondhwa,18.4695,73.889
+99,Male,48,61,42,Viman Nagar,18.5679,73.9143
+100,Male,20,61,49,Wagholi,18.5808,73.9787
+101,Female,23,62,41,Kothrud,18.5074,73.8077
+102,Female,49,62,48,Vidyanagar,18.5799,73.8941
+103,Male,67,62,59,Karve Nagar,18.4915,73.8217
+104,Male,26,62,55,Hadapsar,18.5089,73.9259
+105,Male,49,62,56,Baner,18.559,73.7868
+106,Female,21,62,42,Model colony ,18.5325,73.8375
+107,Female,66,63,50,Undri,18.4567,73.9095
+108,Male,54,63,46,Karve Nagar,18.4915,73.8217
+109,Male,68,63,43,Narhe,18.4465,73.8264
+110,Male,66,63,48,Uday Baug,18.5118,73.9059
+111,Male,65,63,52,Kothrud,18.5074,73.8077
+112,Female,19,63,54,Hinjawadi,18.5913,73.7389
+113,Female,38,64,42,Karve Nagar,18.4915,73.8217
+114,Male,19,64,46,Wagholi,18.5808,73.9787
+115,Female,18,65,48,Koregaon Park,18.5362,73.894
+116,Female,19,65,50,Wagholi,18.5808,73.9787
+117,Female,63,65,43,Hadapsar,18.5089,73.9259
+118,Female,49,65,59,Wadki,18.4314,73.9798
+119,Female,51,67,43,Viman Nagar,18.5679,73.9143
+120,Female,50,67,57,Kondhwa,18.4695,73.889
+121,Male,27,67,56,Viman Nagar,18.5679,73.9143
+122,Female,38,67,40,Narhe,18.4465,73.8264
+123,Female,40,69,58,Model colony ,18.5325,73.8375
+124,Male,39,69,91,Baner,18.559,73.7868
+125,Female,23,70,29,Hadapsar,18.5089,73.9259
+126,Female,31,70,77,Karve Nagar,18.4915,73.8217
+127,Male,43,71,35,Viman Nagar,18.5679,73.9143
+128,Male,40,71,95,Narhe,18.4465,73.8264
+129,Male,59,71,11,Koregaon Park,18.5362,73.894
+130,Male,38,71,75,Narhe,18.4465,73.8264
+131,Male,47,71,9,Undri,18.4567,73.9095
+132,Male,39,71,75,Wagholi,18.5808,73.9787
+133,Female,25,72,34,Karve Nagar,18.4915,73.8217
+134,Female,31,72,71,Hinjawadi,18.5913,73.7389
+135,Male,20,73,5,Hadapsar,18.5089,73.9259
+136,Female,29,73,88,Chinchwad,18.6387,73.7952
+137,Female,44,73,7,Viman Nagar,18.5679,73.9143
+138,Male,32,73,73,Viman Nagar,18.5679,73.9143
+139,Male,19,74,10,Anand Nagar,18.474,73.822
+140,Female,35,74,72,Narhe,18.4465,73.8264
+141,Female,57,75,5,Kondhwa,18.4695,73.889
+142,Male,32,75,93,Viman Nagar,18.5679,73.9143
+143,Female,28,76,40,Uday Baug,18.5118,73.9059
+144,Female,32,76,87,Karve Nagar,18.4915,73.8217
+145,Male,25,77,12,Viman Nagar,18.5679,73.9143
+146,Male,28,77,97,Model colony ,18.5325,73.8375
+147,Male,48,77,36,Karve Nagar,18.4915,73.8217
+148,Female,32,77,74,Anand Nagar,18.474,73.822
+149,Female,34,78,22,Hinjawadi,18.5913,73.7389
+150,Male,34,78,90,Kothrud,18.5074,73.8077
+151,Male,43,78,17,Undri,18.4567,73.9095
+152,Male,39,78,88,Kondhwa,18.4695,73.889
+153,Female,44,78,20,Kothrud,18.5074,73.8077
+154,Female,38,78,76,Uday Baug,18.5118,73.9059
+155,Female,47,78,16,Hadapsar,18.5089,73.9259
+156,Female,27,78,89,Viman Nagar,18.5679,73.9143
+157,Male,37,78,1,Shivajinagar,18.5314,73.8446
+158,Female,30,78,78,Bhosari,18.6321,73.8468
+159,Male,34,78,1,Model colony ,18.5325,73.8375
+160,Female,30,78,73,Wagholi,18.5808,73.9787
+161,Female,56,79,35,Viman Nagar,18.5679,73.9143
+162,Female,29,79,83,Anand Nagar,18.474,73.822
+163,Male,19,81,5,Hinjawadi,18.5913,73.7389
+164,Female,31,81,93,Undri,18.4567,73.9095
+165,Male,50,85,26,Bhosari,18.6321,73.8468
+166,Female,36,85,75,Anand Nagar,18.474,73.822
+167,Male,42,86,20,Narhe,18.4465,73.8264
+168,Female,33,86,95,Kothrud,18.5074,73.8077
+169,Female,36,87,27,Kondhwa,18.4695,73.889
+170,Male,32,87,63,Anand Nagar,18.474,73.822
+171,Male,40,87,13,Vidyanagar,18.5799,73.8941
+172,Male,28,87,75,Kothrud,18.5074,73.8077
+173,Male,36,87,10,Anand Nagar,18.474,73.822
+174,Male,36,87,92,Baner,18.559,73.7868
+175,Female,52,88,13,Viman Nagar,18.5679,73.9143
+176,Female,30,88,86,Hinjawadi,18.5913,73.7389
+177,Male,58,88,15,Wagholi,18.5808,73.9787
+178,Male,27,88,69,Model colony ,18.5325,73.8375
+179,Male,59,93,14,Anand Nagar,18.474,73.822
+180,Male,35,93,90,Undri,18.4567,73.9095
+181,Female,37,97,32,Anand Nagar,18.474,73.822
+182,Female,32,97,86,Baner,18.559,73.7868
+183,Male,46,98,15,Anand Nagar,18.474,73.822
+184,Female,29,98,88,Wadki,18.4314,73.9798
+185,Female,41,99,39,Model colony ,18.5325,73.8375
+186,Male,30,99,97,Vidyanagar,18.5799,73.8941
+187,Female,54,101,24,Anand Nagar,18.474,73.822
+188,Male,28,101,68,Narhe,18.4465,73.8264
+189,Female,41,103,17,Viman Nagar,18.5679,73.9143
+190,Female,36,103,85,Baner,18.559,73.7868
+191,Female,34,103,23,Hinjawadi,18.5913,73.7389
+192,Female,32,103,69,Anand Nagar,18.474,73.822
+193,Male,33,113,8,Narhe,18.4465,73.8264
+194,Female,38,113,91,Karve Nagar,18.4915,73.8217
+195,Female,47,120,16,Model colony ,18.5325,73.8375
+196,Female,35,120,79,Bhosari,18.6321,73.8468
+197,Female,45,126,28,Pashan,18.5415,73.7925
+198,Male,32,126,74,Shivajinagar,18.5314,73.8446
+199,Male,32,137,18,Anand Nagar,18.474,73.822
+200,Male,30,137,83,Karve Nagar,18.4915,73.8217
